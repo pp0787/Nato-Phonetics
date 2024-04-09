@@ -1,2 +1,2 @@
-# Miles-to-Km-Converter
-Interactive pop-up that converts miles to kms using tkinter
+# NATO phonetics
+Gives you the equivalent nato alphabet for each letter in the input
